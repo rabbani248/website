@@ -62,9 +62,16 @@ margin-left: 50px;
 
 .about{
     text-align: left;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 2%;
     
+}
+
+.about p{
+    color: blue;
+    text-align: justify;
+    font-size: 0.8rem;
+    margin-bottom: 2%;
 }
 .my_img{
     width:250px;
@@ -73,9 +80,72 @@ margin-left: 50px;
 }
 
 h1{
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 600;
-   
+   color:#f3b18a;
     text-align: center;
     margin-top: 2%;
+}
+.heading{
+  color:#f3b18a;
+  font-size: 1rem;
+ font-weight: 600;
+ font-style: italic;
+ 
+}
+.skill{
+    border: 0 solid whitesmoke;
+    border-radius: 2%;
+   color: blue;
+    
+}
+ h2{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2%;
+    color:#f3b18a;
+    
+}
+
+.skills{
+    border: 1px solid whitesmoke;
+    background-color: #83b6be;
+    border-radius: 20px;
+    transform:rotate(1deg);
+}
+.project h3{
+    color:#f3b18a;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;    
+
+}
+.content{
+    text-align: left;
+    font-size: 0.8rem;    
+    color: blue;
+   text-align: justify;
+
+}
+
+.content p{
+    color: #f3b18a;
+    font-size: 0.5rem;
+    text-align: justify;
+    margin-bottom: 0%;
+}
+.project{
+    border: 1px solid whitesmoke;
+    background-color: #83b6be;
+    border-radius: 20px;
+    transform:rotate(-1deg);
+}
+.p4{
+    margin-top: -20%;
+}
+
+.s-img{
+    width: 50%;
+    height: 50%;
 }
